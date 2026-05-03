@@ -1,7 +1,9 @@
 /* Bare-bones styling so the archive is readable. Replace with proper design later. */
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Helvetica Neue", sans-serif; max-width: 760px; margin: 0 auto; padding: 1.5rem; line-height: 1.55; color: #222; }
+.top-strip { position: fixed; top: 0; left: 0; right: 0; height: 4px; background: #d10c0d; z-index: 1000; }
 h1, h2, h3, h4, h5, h6, .site-header a { font-family: "Plus Jakarta Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
-h1, h2, h3, h4, .post-list a { text-wrap: pretty; }
+h1, h2, h3, h4, h5, h6 { font-weight: 500; }
+h1, h2, h3, h4, p, .post-list a { text-wrap: pretty; }
 .site-header { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 1rem; padding: 0.5rem 0 1.5rem; margin-bottom: 2rem; }
 .site-header .site-name { display: inline-block; line-height: 0; }
 .site-header .site-name img { display: block; width: 220px; height: auto; max-width: 100%; }
@@ -13,9 +15,10 @@ h1, h2, h3, h4, .post-list a { text-wrap: pretty; }
 .site-nav .feed-link svg { width: 17px; height: 17px; color: #f60; transition: color 0.15s; }
 .site-nav .feed-link:hover svg { color: #c00; }
 .site-footer { margin-top: 4rem; padding-top: 1rem; border-top: 1px solid #ddd; color: #888; font-size: 0.9rem; }
-.post-header h1 { margin-bottom: 0.25rem; }
+.post-header h1 { margin-bottom: 0.25rem; font-size: 2.4rem; line-height: 1.2; }
 .byline { color: #888; font-size: 0.9rem; margin-top: 0; }
 .post-body img { max-width: 100%; height: auto; }
+.post-body img.bordered, .post-summary-body img.bordered { border: 6px solid #d10c0d; border-radius: 16px; }
 .post-body blockquote { margin: 1.5rem 0; padding: 0.4rem 0 0.4rem 1.25rem; border-left: 4px solid #c00; color: #555; font-style: italic; font-size: 1.05rem; line-height: 1.6; }
 .post-body blockquote p:first-child { margin-top: 0; }
 .post-body blockquote p:last-child { margin-bottom: 0; }
@@ -24,7 +27,7 @@ h1, h2, h3, h4, .post-list a { text-wrap: pretty; }
 .post-body pre code { background: transparent; padding: 0; }
 .post-list { list-style: none; padding: 0; }
 .post-summary { padding: 1.75rem 0; }
-.post-summary-title { margin: 0 0 0.25rem; font-size: 1.5rem; }
+.post-summary-title { margin: 0 0 0.25rem; font-size: 1.85rem; line-height: 1.2; font-weight: 500; }
 .post-summary-title a { color: #222; text-decoration: none; }
 .post-summary-title a:hover { color: #c00; }
 .post-summary .byline { margin: 0 0 0.75rem; }

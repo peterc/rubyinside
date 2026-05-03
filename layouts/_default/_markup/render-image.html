@@ -1,0 +1,36 @@
+{{- /* Bundle-local jpg/png get resized to 800px max as WebP with 2x srcset; absolute/external URLs and other formats pass through.
+       Markdown title slot doubles as a class hint when prefixed with `.` — e.g. ![alt](src ".right wide") → class="right wide". */ -}}
+{{- $src := .Destination -}}
+{{- $alt := .PlainText -}}
+{{- $classes := "" -}}
+{{- $titleAttr := "" -}}
+{{- with .Title -}}
+  {{- if hasPrefix . "." -}}
+    {{- $classes = strings.TrimPrefix "." . -}}
+  {{- else -}}
+    {{- $titleAttr = . -}}
+  {{- end -}}
+{{- end -}}
+{{- $extra := "" -}}
+{{- with $classes }}{{ $extra = printf " class=%q" . }}{{ end -}}
+{{- with $titleAttr }}{{ $extra = printf "%s title=%q" $extra . }}{{ end -}}
+{{- if or (hasPrefix $src "http") (hasPrefix $src "/") -}}
+  <img src="{{ $src | safeURL }}" alt="{{ $alt }}"{{ $extra | safeHTMLAttr }} loading="lazy" decoding="async">
+{{- else -}}
+  {{- $img := .Page.Resources.GetMatch $src -}}
+  {{- if $img -}}
+    {{- $ext := lower (strings.TrimPrefix "." (path.Ext $src)) -}}
+    {{- if in (slice "jpg" "jpeg" "png") $ext -}}
+      {{- $maxW := 800 -}}
+      {{- $w1x := cond (gt $img.Width $maxW) $maxW $img.Width -}}
+      {{- $w2x := cond (gt $img.Width (mul $maxW 2)) (mul $maxW 2) $img.Width -}}
+      {{- $1x := $img.Resize (printf "%dx webp q85" $w1x) -}}
+      {{- $2x := $img.Resize (printf "%dx webp q85" $w2x) -}}
+      <img src="{{ $1x.RelPermalink }}" srcset="{{ $1x.RelPermalink }} 1x, {{ $2x.RelPermalink }} 2x" width="{{ $1x.Width }}" height="{{ $1x.Height }}" alt="{{ $alt }}"{{ $extra | safeHTMLAttr }} loading="lazy" decoding="async">
+    {{- else -}}
+      <img src="{{ $img.RelPermalink }}" alt="{{ $alt }}"{{ $extra | safeHTMLAttr }} loading="lazy" decoding="async">
+    {{- end -}}
+  {{- else -}}
+    <img src="{{ $src | safeURL }}" alt="{{ $alt }}"{{ $extra | safeHTMLAttr }} loading="lazy" decoding="async">
+  {{- end -}}
+{{- end -}}

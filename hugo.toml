@@ -12,6 +12,10 @@ title = "Ruby Inside"
 [markup.goldmark.renderer]
   unsafe = true
 
+[markup.highlight]
+  style = "github"
+  noClasses = true
+
 [taxonomies]
   category = "categories"
   author = "authors"

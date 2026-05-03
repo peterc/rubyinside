@@ -12,12 +12,14 @@
   {{ template "_internal/twitter_cards.html" . }}
 </head>
 <body>
+  <div class="top-strip"></div>
   <header class="site-header">
-    <a href="/" class="site-name"><img src="/img/logo.png" alt="Ruby Inside" width="220" height="51"></a>
+    <a href="/" class="site-name"><img src="/img/logo.png" alt="Ruby Inside" width="220" height="59"></a>
     <nav class="site-nav">
-      <a href="/archives/">Archives <span class="post-count">({{ len (where .Site.RegularPages "Params.post_id" "!=" nil) }} posts)</span></a>
+      <a href="/about/">About</a>
+      <a href="/archives/">Archives <span class="post-count">({{ len (where .Site.RegularPages "Params.post_id" "!=" nil) }})</span></a>
       <a href="/feed/" class="feed-link" aria-label="RSS feed">
-        <svg viewBox="0 0 24 24" width="14" height="14" fill="currentColor" aria-hidden="true"><path d="M4 11a9 9 0 0 1 9 9h-3a6 6 0 0 0-6-6v-3zm0-7a16 16 0 0 1 16 16h-3a13 13 0 0 0-13-13V4zm2.5 13a2.5 2.5 0 1 1 0 5 2.5 2.5 0 0 1 0-5z"/></svg>
+        <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 11a9 9 0 0 1 9 9"/><path d="M4 4a16 16 0 0 1 16 16"/><circle cx="5" cy="19" r="1.4" fill="currentColor"/></svg>
         Feed
       </a>
     </nav>
