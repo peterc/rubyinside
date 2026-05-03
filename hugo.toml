@@ -1,0 +1,33 @@
+baseURL = "https://rubyinside.com/"
+title = "Ruby Inside"
+
+[languages.en]
+  locale = "en-us"
+
+[pagination]
+  pagerSize = 30
+
+# Allow raw HTML in Markdown content (the legacy posts use the {{< rawhtml >}}
+# shortcode, but goldmark still needs unsafe rendering enabled to pass it).
+[markup.goldmark.renderer]
+  unsafe = true
+
+[taxonomies]
+  category = "categories"
+  author = "authors"
+
+[services.rss]
+  limit = 10
+
+[outputs]
+  taxonomy = ["html"]
+  term = ["html"]
+  section = ["html"]
+
+[params]
+  images = ["/img/og-default.png"]
+  description = "Ruby news, articles, and tutorials from 2006–2014."
+
+# Disable Hugo's default "ugly URL" shenanigans — every post has a `url:` in
+# frontmatter that pins its exact path, so we don't need any URL transformation.
+disableKinds = []

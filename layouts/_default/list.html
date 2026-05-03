@@ -1,0 +1,21 @@
+{{ define "title" }}{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} &middot; {{ .Site.Title }}{{ end }}{{ end }}
+{{ define "main" }}
+{{ if not .IsHome }}<h1>{{ .Title }}</h1>{{ end }}
+{{ $pages := where .Site.RegularPages "Section" "in" (slice "" "legacy") }}
+{{ if not .IsHome }}{{ $pages = .Pages }}{{ end }}
+{{ $paginator := .Paginate ($pages.ByDate.Reverse) }}
+<div class="post-summaries">
+  {{ range $paginator.Pages }}
+  <article class="post-summary">
+    <h2 class="post-summary-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+    <p class="byline">By {{ .Params.author }} &middot; <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time></p>
+    {{ $matches := findRE "<p[^>]*>(?s).*?</p>" .Content 1 }}
+    {{ with $matches }}
+      <div class="post-summary-body">{{ index . 0 | safeHTML }}</div>
+    {{ end }}
+    <p class="read-more"><a href="{{ .RelPermalink }}">Read more &rarr;</a></p>
+  </article>
+  {{ end }}
+</div>
+{{ template "_internal/pagination.html" . }}
+{{ end }}
