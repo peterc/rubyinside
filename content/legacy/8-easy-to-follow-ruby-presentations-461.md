@@ -15,7 +15,7 @@ categories:
 ---
 
 {{< rawhtml >}}
-<p><a href="http://www.slideshare.net/">Slideshare</a> is like the <a href="http://www.youtube.com/">YouTube</a> or <a href="http://www.scribd.com/">Scribd</a> of presentations and slideshows and it features a few good Ruby and Rails related slideshows that are worth flicking through. This post links to some of the best:</p>
+<p><a href="http://www.slideshare.net/">Slideshare</a> is like the <a href="https://www.youtube.com/">YouTube</a> or <a href="http://www.scribd.com/">Scribd</a> of presentations and slideshows and it features a few good Ruby and Rails related slideshows that are worth flicking through. This post links to some of the best:</p>
 <p><img src="/assets/2007/04/ar1.jpg" height="145" width="215" border="1" hspace="4" vspace="4" alt="Ar1"> <img src="/assets/2007/04/ar2.jpg" height="145" width="198" border="1" hspace="4" vspace="4" alt="Ar2"><br>
 <strong><a href="http://www.slideshare.net/rabble/introduction-to-active-record-silicon-valley-ruby-conference-20007/">Introduction to Active Record</a></strong> by Evan 'Rabble' Henshaw-Plath.</p>
 <p><img src="/assets/2007/04/ar3.jpg" height="149" width="209" border="1" hspace="4" vspace="4" alt="Ar3"><br>

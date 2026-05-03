@@ -74,7 +74,7 @@ Ryan Bates shows us how to create a new Facebook application, configure it, add 
 </p>
 </div>
 <div style="margin: 16px 0px;" class="item">
-  <iframe width="640" height="360" src="http://www.youtube.com/embed/YgU3Ai54Udc" frameborder="0" allowfullscreen></iframe>
+  <iframe width="640" height="360" src="https://www.youtube.com/embed/YgU3Ai54Udc" frameborder="0" allowfullscreen></iframe>
 <p><a href="http://confreaks.com/videos/912-railsconf2012-complex-made-simple-sleep-better-with-torquebox" style="font-weight: bold;">Complex Made Simple: Sleep Better with TorqueBox</a><br>
 At RailsConf 2012, Lance Ball spoke about TorqueBox, a popular Ruby application server built on JRuby and JBoss AS7 that provides asynchronous messaging, scheduled jobs, long-running processes, caching, and more.
 </p>

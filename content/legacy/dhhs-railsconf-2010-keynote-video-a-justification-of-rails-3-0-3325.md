@@ -11,11 +11,11 @@ categories:
 ---
 
 {{< rawhtml >}}
-<p><object width="560" height="340"><param name="movie" value="http://www.youtube.com/v/b0iKYRKtAsA&amp;hl=en_US&amp;fs=1&amp;">
+<p><object width="560" height="340"><param name="movie" value="https://www.youtube.com/v/b0iKYRKtAsA&amp;hl=en_US&amp;fs=1&amp;">
 <param name="allowFullScreen" value="true">
 <param name="allowscriptaccess" value="always">
-<embed src="http://www.youtube.com/v/b0iKYRKtAsA&amp;hl=en_US&amp;fs=1&amp;" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="340"></embed></object></p>
-<p>DHH gives <a href="http://www.youtube.com/watch?v=b0iKYRKtAsA">an insightful and accessible 38 minute walkthrough</a> of some of Rails 3's differences from Rails 2.0 and explains the motivations behind them. A particular focus is given to improvements made to the routing system (both for REST and non-REST URLs).</p>
+<embed src="https://www.youtube.com/v/b0iKYRKtAsA&amp;hl=en_US&amp;fs=1&amp;" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="340"></embed></object></p>
+<p>DHH gives <a href="https://www.youtube.com/watch?v=b0iKYRKtAsA">an insightful and accessible 38 minute walkthrough</a> of some of Rails 3's differences from Rails 2.0 and explains the motivations behind them. A particular focus is given to improvements made to the routing system (both for REST and non-REST URLs).</p>
 <p>I've been a bit lukewarm on Rails lately, opting instead to strongarm <a href="http://www.sinatrarb.com/">Sinatra</a> into doing whatever I want, but DHH's keynote is a compelling overview that encourages me to give it a fair look.</p>
 <p>The final release of Rails 3.0 is expected within the next few weeks, with a release candidate in the next week or so.</p>
 {{< /rawhtml >}}

@@ -11,9 +11,9 @@ categories:
 ---
 
 {{< rawhtml >}}
-<p><object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/JMDcOViViNY">
+<p><object width="425" height="350"><param name="movie" value="https://www.youtube.com/v/JMDcOViViNY">
 <param name="wmode" value="transparent">
-<embed src="http://www.youtube.com/v/JMDcOViViNY" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object></p>
+<embed src="https://www.youtube.com/v/JMDcOViViNY" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object></p>
 <p>Okay, it's not our beloved programming language, but how often does a song called "Ruby" come around? You don't see many songs called Python or Haskell getting in the charts, whereas we get to enjoy #1 singles, a <a href="ruby-becomes-4th-most-popular-girls-name-in-the-uk-341.html">popular girls name</a> and precious stones.</p>
 {{< /rawhtml >}}
 

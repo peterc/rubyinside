@@ -43,8 +43,8 @@ categories:
 <p><span style="font-size: 14px; font-weight: bold;">Commemorations</span></p>
 <p><a href="http://ejohn.org/blog/eulogy-to-_why/">Eulogy to _why</a> - JavaScript supremo John Resig dedicates a few words to Why's memory.</p>
 <p><a href="http://www.robbyonrails.com/articles/2009/08/20/so-long-and-thanks-for-all-the-hoodwinks">So long and thanks for all the hoodwinks</a> - Robby Russell of Planet Argon gives a salute to Why's memory.</p>
-<p><a href="http://www.youtube.com/watch?v=_EPzGpwnekg&amp;feature=related">Why the Lucky Stiff on Twins and Drawing</a> - A video made to some spoken word by Why. A couple of quirky stories.</p>
-<p><a href="http://www.youtube.com/watch?v=YReSQfSBz4k">The Belljar, the Space, and My Daughter's Organ Instructor</a> - A commemorative video by "Raymond" set to Why's music.</p>
+<p><a href="https://www.youtube.com/watch?v=_EPzGpwnekg&amp;feature=related">Why the Lucky Stiff on Twins and Drawing</a> - A video made to some spoken word by Why. A couple of quirky stories.</p>
+<p><a href="https://www.youtube.com/watch?v=YReSQfSBz4k">The Belljar, the Space, and My Daughter's Organ Instructor</a> - A commemorative video by "Raymond" set to Why's music.</p>
 <p><a href="http://nick.quaran.to/post/166678274/why-milk-carton-via-defunkt-and-twitpic">A Commemorative Milk Carton for Why</a></p>
 <p><a href="http://www.facebook.com/group.php?gid=125833150094">The "Missing why the lucky stiff" Facebook group</a> - Already up to 9 members..</p>
 <p><a href="http://search.twitter.com/search?q=%40_why">Twitter search for _why</a> - Thousands of tweets commemorating or mentioning Why.</p>
@@ -54,7 +54,7 @@ categories:
 <p><a href="http://www.advogato.org/person/whytheluckystiff/">His Advogato account</a> - Features a rather intriguing poem as well as 54 blog posts.</p>
 <p><a href="http://en.wikipedia.org/wiki/Why_the_lucky_stiff">The "why the lucky stiff" Wikipedia entry</a></p>
 <p><a href="http://www.reddit.com/user/why">Why's Reddit account</a></p>
-<p><a href="http://www.youtube.com/user/whytheluckystiff">Why's YouTube account</a> - Features three videos in Why style.</p>
+<p><a href="https://www.youtube.com/user/whytheluckystiff">Why's YouTube account</a> - Features three videos in Why style.</p>
 <p><a href="http://www.vimeo.com/why">Why's Vimeo account</a> - With only one video - <i>Hello World, the Song</i>.</p>
 <p><a href="http://www.flickr.com/photos/tags/whytheluckystiff/">Photos of Why The Lucky Stiff on Flickr</a></p>
 <p><b><i>Added:</i></b> <i>Supposedly Why was in a band (as his non-psuedonym self) called The Child Who Was A Keyhole and the album art certainly attests to that. So.. perhaps you might want to</i> <a href="http://www.cdbaby.com/cd/tcwwak"><i>buy their CD from CDBaby</i></a><i>?</i></p>
@@ -105,8 +105,8 @@ list and you'll receive list e-mail once again.</p><p>With that, I graciously bo
     </li>
       <li>
       <p class="comment-meta"><strong>dimotu</strong> &middot; <time datetime="2009-08-20T23:19:00+00:00">August 20, 2009 at 11:19 pm</time></p>
-      <p>Here are two more of _why's videos (from Oscon 2005)</p><p>Sinking Symphony: <a href="http://www.youtube.com/watch?v=mKSacTAjS0Q" rel="nofollow">http://www.youtube.com/watch?v=mKSacTAjS0Q</a><br>
-Foxes Tall and Small on Modules: <a href="http://www.youtube.com/watch?v=lwDDa9ctNFE" rel="nofollow">http://www.youtube.com/watch?v=lwDDa9ctNFE</a></p><p>I really hope he is okay.</p>
+      <p>Here are two more of _why's videos (from Oscon 2005)</p><p>Sinking Symphony: <a href="https://www.youtube.com/watch?v=mKSacTAjS0Q" rel="nofollow">https://www.youtube.com/watch?v=mKSacTAjS0Q</a><br>
+Foxes Tall and Small on Modules: <a href="https://www.youtube.com/watch?v=lwDDa9ctNFE" rel="nofollow">https://www.youtube.com/watch?v=lwDDa9ctNFE</a></p><p>I really hope he is okay.</p>
     </li>
       <li>
       <p class="comment-meta"><strong>Jason Garber</strong> &middot; <time datetime="2009-08-20T23:33:00+00:00">August 20, 2009 at 11:33 pm</time></p>

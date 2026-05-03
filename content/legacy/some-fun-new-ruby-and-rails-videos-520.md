@@ -14,19 +14,19 @@ categories:
 
 {{< rawhtml >}}
 <p><strong>Standout Jobs Need a Ruby Guru</strong><br>
-<object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/FTxwSK-zn4M">
+<object width="425" height="350"><param name="movie" value="https://www.youtube.com/v/FTxwSK-zn4M">
 <param name="wmode" value="transparent">
-<embed src="http://www.youtube.com/v/FTxwSK-zn4M" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object></p>
-<p>Standout Jobs are looking for a Ruby guru, and they've put together <a href="http://youtube.com/watch?v=FTxwSK-zn4M&amp;mode=related&amp;search=">a whole video</a> explaining who they are and what they're looking for. I think more people should be posting job ads in this way.. it makes me feel a lot better informed about who they are than a dry list of job benefits.</p>
+<embed src="https://www.youtube.com/v/FTxwSK-zn4M" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object></p>
+<p>Standout Jobs are looking for a Ruby guru, and they've put together <a href="https://youtube.com/watch?v=FTxwSK-zn4M&amp;mode=related&amp;search=">a whole video</a> explaining who they are and what they're looking for. I think more people should be posting job ads in this way.. it makes me feel a lot better informed about who they are than a dry list of job benefits.</p>
 <p><strong>Animated Ruby on Rails "Commercial"</strong><br>
-<object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/H868NSM2yAg">
+<object width="425" height="350"><param name="movie" value="https://www.youtube.com/v/H868NSM2yAg">
 <param name="wmode" value="transparent">
-<embed src="http://www.youtube.com/v/H868NSM2yAg" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object></p>
-<p>Thanks to Jay Phillips for pointing <a href="http://youtube.com/watch?v=H868NSM2yAg&amp;mode=related&amp;search=">this one out.</a> It's a reasonably content-free but humor-full animated commercial for Ruby on Rails.</p>
+<embed src="https://www.youtube.com/v/H868NSM2yAg" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object></p>
+<p>Thanks to Jay Phillips for pointing <a href="https://youtube.com/watch?v=H868NSM2yAg&amp;mode=related&amp;search=">this one out.</a> It's a reasonably content-free but humor-full animated commercial for Ruby on Rails.</p>
 <p><strong>RailsEnvy "Rails Vs." Commercials</strong><br>
-<object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/n1NVfDlU6yQ">
+<object width="425" height="350"><param name="movie" value="https://www.youtube.com/v/n1NVfDlU6yQ">
 <param name="wmode" value="transparent">
-<embed src="http://www.youtube.com/v/n1NVfDlU6yQ" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object></p>
+<embed src="https://www.youtube.com/v/n1NVfDlU6yQ" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object></p>
 <p>Every RailsConf attendee will already be familiar with these videos, produced in the same vein as the "Mac vs PC" Apple commercials, but in case you're not..</p>
 {{< /rawhtml >}}
 

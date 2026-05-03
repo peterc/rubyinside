@@ -91,7 +91,7 @@ Ryan Bates is back with another Rails Cast, this time demonstrating how to creat
 </p>
 </div>
 <div style="margin: 16px 0px;" class="item">
-<p><a href="http://www.youtube.com/watch?feature=player_embedded&amp;v=2lBBjkcfKuE" style="font-weight: bold;">Matz Speaking at LinkedIn about Ruby</a><br>
+<p><a href="https://www.youtube.com/watch?feature=player_embedded&amp;v=2lBBjkcfKuE" style="font-weight: bold;">Matz Speaking at LinkedIn about Ruby</a><br>
 Back in October, Matz spoke at LinkedIn about his background, Ruby's history, and his current work. I enjoyed this.
 </p>
 </div>

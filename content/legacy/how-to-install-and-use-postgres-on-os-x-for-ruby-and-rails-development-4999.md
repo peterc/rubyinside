@@ -26,7 +26,7 @@ categories:
 </ul>
 <h3>Or, the Screencast!</h3>
 <p>I still wanted to bring something to the table despite Will's work so I asked if I could make a screencast that roughly followed the same lines as his tutorial and he was up for it. So, I present, a scrappy 13 minute video alternative to the above tutorial:</p>
-<p><iframe width="640" height="390" src="http://www.youtube.com/embed/pf5jPUJAeU4" frameborder="0" allowfullscreen></iframe></p>
+<p><iframe width="640" height="390" src="https://www.youtube.com/embed/pf5jPUJAeU4" frameborder="0" allowfullscreen></iframe></p>
 <p>My walkthrough is <em>somewhat different</em>. I spend a couple of minutes explaining what Postgres is, in case you're not familiar with it, and I use Mike Perham's awesome launchctl controller <a href="http://thechangelog.com/post/4164540515/lunchy-a-friendly-wrapper-for-launchctl">Lunchy</a> to manage the starting and stopping of Postgres instead of the usual (and arcane) Apple tools. I also make references to Rebecca Black and Mister Mister.</p>
 <p>While preparing for this post, I've found a lot of small, useful Ruby libraries that improve the Postgres experience. I'm collecting those together and will be posting with a grab-bag of useful links soon.</p>
 {{< /rawhtml >}}

@@ -133,7 +133,7 @@ The inimitable Ruby Rogues spend an hour discussing the superb 'Growing Object O
 </p>
 </div>
 <div style="margin: 16px 0px;" class="item">
-<p><a href="http://www.youtube.com/watch?v=47LtM830ocE" style="font-weight: bold;">Why The Lucky Stiff Documentary Trailer</a><br>
+<p><a href="https://www.youtube.com/watch?v=47LtM830ocE" style="font-weight: bold;">Why The Lucky Stiff Documentary Trailer</a><br>
 A short 2 minute preview of a documentary about Why The Lucky Stiff that's planned to be screened at this year's RubyConf.
 </p>
 </div>

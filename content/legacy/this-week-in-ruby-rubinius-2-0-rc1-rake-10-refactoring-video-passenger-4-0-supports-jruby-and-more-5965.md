@@ -164,7 +164,7 @@ Mock objects for testing purposes have their supporters and detractors. At Rocky
 </p>
 </div>
 <div style="margin: 16px 0px;" class="item">
-<p><a href="http://www.youtube.com/watch?v=t430e6M5YAo" style="font-weight: bold;">Yay! Mocks!</a><br>
+<p><a href="https://www.youtube.com/watch?v=t430e6M5YAo" style="font-weight: bold;">Yay! Mocks!</a><br>
 45 minutes with Corey Haines.
 </p>
 </div>
@@ -179,7 +179,7 @@ There's a whole world of interesting network protocols beyond HTTP says Anthony 
 </p>
 </div>
 <div style="margin: 16px 0px;" class="item">
-<p><a href="http://www.youtube.com/watch?v=ojU4O2CMeSc" style="font-weight: bold;">Let's Talk Concurrency</a><br>
+<p><a href="https://www.youtube.com/watch?v=ojU4O2CMeSc" style="font-weight: bold;">Let's Talk Concurrency</a><br>
 José Valim of the Rails core team shares a digest of what he's recently learned about concurrent programming and techniques.
 </p>
 </div>

@@ -19,7 +19,7 @@ categories:
 <p>An <a href="http://www.rug-b.de/wiki/show/RejectConf">announcement</a> about the Reject Conf tonight (September 18) in Berlin. The Reject Conf in Portland was supposedly a total blast, so check it out. It'll feature some of the talks that didn't make the list for RailsConf proper.</p>
 <p>The <a href="http://www.flickr.com/photos/tags/railsconfeurope/">"RailsConfEurope" tag on Flickr</a> is buzzing with the latest photos (including the one used on this post).</p>
 <p>Robert Dempsey posts with <a href="http://www.techcfl.com/blog/?p=189">a summary of Monday morning's tutorial session</a> about Behavior Driven Development as led by David Chelimsky, Aslak Hellesoy, and Dan North. He also briefly mentions the <a href="http://www.techcfl.com/blog/?p=190">"Flex on Rails" afternoon tutorial</a> and provides a link to some supplied code. </p>
-<p>The RailsOnWave guys also posted <a href="http://youtube.com/watch?v=vA8w2J_1Djw">a video about arriving in Berlin a month early</a> for the conference.</p>
+<p>The RailsOnWave guys also posted <a href="https://youtube.com/watch?v=vA8w2J_1Djw">a video about arriving in Berlin a month early</a> for the conference.</p>
 </blockquote>
 <p>Curiously, very little else has been posted by anyone anywhere yet, so let's hope that means everyone's having too much fun!</p>
 {{< /rawhtml >}}

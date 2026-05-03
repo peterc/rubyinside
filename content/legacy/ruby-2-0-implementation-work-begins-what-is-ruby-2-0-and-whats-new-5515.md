@@ -23,7 +23,7 @@ categories:
 <h3>What will (probably) be new in Ruby 2.0?</h3>
 <p>Ruby 2.0 is still not well defined. At the moment, ideas and features are being actively suggested and discussed, but a number have been tipped to make it into Ruby 2.0 at this early stage:</p>
 <h4>Keyword Arguments</h4>
-<p>In <a href="http://www.youtube.com/watch?v=t9LMOydfc4k">Ruby 2.0: What We Want to Accomplish in the Near Future</a> (recorded in 2010), Matz showed off an example where <code>1.step(20, 2)</code> could become <code>1.step(by: 2, to: 20)</code> with the method definition of <code>def step(by: step, to: limit)</code>.</p>
+<p>In <a href="https://www.youtube.com/watch?v=t9LMOydfc4k">Ruby 2.0: What We Want to Accomplish in the Near Future</a> (recorded in 2010), Matz showed off an example where <code>1.step(20, 2)</code> could become <code>1.step(by: 2, to: 20)</code> with the method definition of <code>def step(by: step, to: limit)</code>.</p>
 <p>An implementation of keyword arguments by Yusuke Endoh actually <a href="http://ruby-dev.info/posts/44602">triggered the discussion to move trunk to 2.0.0</a> so this is actively being discussed and implemented.</p>
 <h4>Bytecode export/import</h4>
 <p>Ruby 1.9 runs on the YARV virtual machine and so will Ruby 2.0, but Ruby 2.0 is expected to make it simple to save pre-compiled Ruby scripts to bytecode representations and to then run these directly. Running pre-compiled bytecode will skip the parsing stage of the standard interpretation process. If you use Rubinius or JRuby you may be familiar with this concept.</p>

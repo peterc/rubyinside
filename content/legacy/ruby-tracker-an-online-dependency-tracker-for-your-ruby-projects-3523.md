@@ -14,10 +14,10 @@ categories:
 <p><a href="http://rubytracker.com/">Ruby Tracker</a> is a new webapp from EnvyLabs that tracks dependencies for your Ruby and Rails applications. It alerts you whenever libraries you depend on are updated or have new versions released. This is all in aid of keeping up to date.</p>
 <p>Only two downsides: Ruby Tracker only works with projects that use Bundler <em>and</em> that are in an Internet-accessible Git repository (such as on GitHub). It can deal with private repositories, however, so your code doesn't need to be publicly accessible.</p>
 <p>In true Envylabs style, a screencast explains how Ruby Tracker works:</p>
-<p><object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/YMC-TV2FCXg&amp;hl=en_US&amp;fs=1">
+<p><object width="480" height="385"><param name="movie" value="https://www.youtube.com/v/YMC-TV2FCXg&amp;hl=en_US&amp;fs=1">
 <param name="allowFullScreen" value="true">
 <param name="allowscriptaccess" value="always">
-<embed src="http://www.youtube.com/v/YMC-TV2FCXg&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object></p>
+<embed src="https://www.youtube.com/v/YMC-TV2FCXg&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object></p>
 <p>Nathaniel Bibler has written <a href="http://blog.envylabs.com/2010/07/ruby-tracker-the-ruby-dependency-manager/">a blog post explaining what Ruby Tracker is all about</a> in case the idea doesn't click for you immediately.</p>
 {{< /rawhtml >}}
 

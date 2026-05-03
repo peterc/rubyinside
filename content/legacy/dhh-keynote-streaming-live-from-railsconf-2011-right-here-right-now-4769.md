@@ -14,7 +14,7 @@ categories:
 {{< rawhtml >}}
 <p><img src="/assets/2011/03/dh-rofl-h.gif" alt="" title="dh-rofl-h" width="120" height="158" class="alignnone size-full wp-image-4611" style="float: right; margin-left: 18px; border: 1px solid #333">Ruby on Rails' creator David Heinemeier Hansson is currently at <a href="http://www.railsconf.com/">RailsConf 2011</a> along with hundreds of other Ruby and Rails developers. In a first for RailsConf, there's a live stream of some of the event which <strike>is</strike> was embedded below so you could watch DHH's keynote.</p>
 <p>DHH's keynote <strike>starts</strike> started at around 9.15am Eastern on May 17, 2011 and while I had a embedded live stream here, I've now replaced it with the final archive video from YouTube:</p>
-<p><iframe width="640" height="390" src="http://www.youtube.com/embed/cGdCI2HhfAU" frameborder="0" allowfullscreen></iframe></p>
+<p><iframe width="640" height="390" src="https://www.youtube.com/embed/cGdCI2HhfAU" frameborder="0" allowfullscreen></iframe></p>
 <p><em>If you can't see the video above, you're in a feed reader/similar that doesn't support embedded streams and you'll need to click through to Ruby Inside to view it.</em></p>
 <h3>Live Blogging and Notes from DHH's Keynote</h3>
 <p><img src="/assets/2011/05/Screen-shot-2011-05-17-at-14.13.42.png" alt="" title="Screen shot 2011-05-17 at 14.13.42" width="564" height="411" class="alignnone size-full wp-image-4772"></p>

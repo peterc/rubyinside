@@ -118,7 +118,7 @@ categories:
     </li>
       <li>
       <p class="comment-meta"><strong>secondplanet</strong> &middot; <time datetime="2011-09-29T20:04:00+00:00">September 29, 2011 at 8:04 pm</time></p>
-      <p>I watched Matz's talk on Ruby 2.0, it was very interesting. You should link it in the post. <a href="http://www.youtube.com/watch?v=t9LMOydfc4k" rel="nofollow">http://www.youtube.com/watch?v=t9LMOydfc4k</a></p>
+      <p>I watched Matz's talk on Ruby 2.0, it was very interesting. You should link it in the post. <a href="https://www.youtube.com/watch?v=t9LMOydfc4k" rel="nofollow">https://www.youtube.com/watch?v=t9LMOydfc4k</a></p>
     </li>
       <li>
       <p class="comment-meta"><strong>autodidakto</strong> &middot; <time datetime="2011-09-29T21:35:00+00:00">September 29, 2011 at 9:35 pm</time></p>

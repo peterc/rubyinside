@@ -13,11 +13,11 @@ categories:
 
 {{< rawhtml >}}
 <p><img src="/assets/2011/01/webkit.png" width="66" height="70" alt="webkit.png" style="float:left; margin-right:12px; margin-bottom:12px;">Eloy Duran (of the Dutch Rails consultancy <a href="http://www.fngtps.com/">Fingertips</a>) has put together an interesting side project: a <a href="https://github.com/alloy/MacRubyWebKitPlugInExample">WebKit plugin written in MacRuby</a>. His 'MacRubyWebKitPluginExample' project on GitHub is a short, self contained example of how to pull it off, so it's worth checking out if you want to do something similar. Eloy's example simply allows Ruby code to be supplied by a text box in a WebView and then executed by MacRuby on the back end.</p>
-<p>Here's <a href="http://www.youtube.com/watch?v=EZXX4Esl3jM">a video</a> showing it in action:</p>
-<p><object width="600" height="475"><param name="movie" value="http://www.youtube.com/v/EZXX4Esl3jM?fs=1&amp;hl=en_US&amp;rel=0">
+<p>Here's <a href="https://www.youtube.com/watch?v=EZXX4Esl3jM">a video</a> showing it in action:</p>
+<p><object width="600" height="475"><param name="movie" value="https://www.youtube.com/v/EZXX4Esl3jM?fs=1&amp;hl=en_US&amp;rel=0">
 <param name="allowFullScreen" value="true">
 <param name="allowscriptaccess" value="always">
-<embed src="http://www.youtube.com/v/EZXX4Esl3jM?fs=1&amp;hl=en_US&amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="600" height="475"></embed></object></p>
+<embed src="https://www.youtube.com/v/EZXX4Esl3jM?fs=1&amp;hl=en_US&amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="600" height="475"></embed></object></p>
 <p>Before you get too excited, there are some significant provisos. Eloy explains:</p>
 <blockquote class="stylized">
 <p>Whoa, hold your horses, son. Because this brings us to the most important note, and will most probably be sad news to you, which is that none of the common WebKit based browsers support this... This means <b>no</b> Safari <b>nor</b> Chrome. [Due to their lack of support for garbage collection.]</p>

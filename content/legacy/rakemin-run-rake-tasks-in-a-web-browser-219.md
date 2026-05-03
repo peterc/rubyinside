@@ -19,8 +19,8 @@ categories:
 <p>It's pretty new, so it's not ready for me to release the source yet, but I'm just wondering if it's anything anyone would be interested in. It'll get released eventually, but if people are interested, I'll try to get a beta build publicly available sooner.</p>
 <p>There's a hideously low res video demonstration next.. <em>(note, this demo video was for the client, so it's not that slick ;-))</em><br>
 <span id="more-219"></span><br>
-<object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/US8n21d6w70">
-<embed src="http://www.youtube.com/v/US8n21d6w70" type="application/x-shockwave-flash" width="425" height="350"></embed></object></p>
+<object width="425" height="350"><param name="movie" value="https://www.youtube.com/v/US8n21d6w70">
+<embed src="https://www.youtube.com/v/US8n21d6w70" type="application/x-shockwave-flash" width="425" height="350"></embed></object></p>
 {{< /rawhtml >}}
 
 {{< rawhtml >}}

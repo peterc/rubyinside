@@ -70,7 +70,7 @@ BusinessTime::Config.holidays &lt;&lt; my_birthday
     </li>
       <li>
       <p class="comment-meta"><strong>Nils Jonsson</strong> &middot; <time datetime="2010-05-06T02:45:00+00:00">May 6, 2010 at 2:45 am</time></p>
-      <p>I can't help but think of the Flight of the Conchords song "Business Time." <a href="http://www.youtube.com/watch?v=WGOohBytKTU" rel="nofollow">http://www.youtube.com/watch?v=WGOohBytKTU</a></p>
+      <p>I can't help but think of the Flight of the Conchords song "Business Time." <a href="https://www.youtube.com/watch?v=WGOohBytKTU" rel="nofollow">https://www.youtube.com/watch?v=WGOohBytKTU</a></p>
     </li>
       <li>
       <p class="comment-meta"><strong>Sohan</strong> &middot; <time datetime="2010-05-06T14:35:00+00:00">May 6, 2010 at 2:35 pm</time></p>

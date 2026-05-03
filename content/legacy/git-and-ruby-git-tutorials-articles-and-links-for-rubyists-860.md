@@ -22,7 +22,7 @@ categories:
 <p><a href="http://git.or.cz/gitwiki/GitSvnComparsion">Git vs Subversion</a> - Are you a diehard Subversion user wondering what the hoopla's all about? Find out how Git compares to Subversion.</p>
 <p><img src="/assets/2008/04/gitcheatsheet.jpg" width="233" height="170" alt="gitcheatsheet.png"><br>
   <a href="http://zrusin.blogspot.com/2007/09/git-cheat-sheet.html">Git Cheat Sheet</a> - A rather well designed and comprehensive "cheat sheet" that most Git users will find useful.</p>
-<p><a href="http://www.youtube.com/watch?v=4XpnKHJAok8">Linus Torvalds on Git</a> - The famous / seminal video given by Linus Torvalds, the initial creator of Git, that introduced many of us to the tool.</p>
+<p><a href="https://www.youtube.com/watch?v=4XpnKHJAok8">Linus Torvalds on Git</a> - The famous / seminal video given by Linus Torvalds, the initial creator of Git, that introduced many of us to the tool.</p>
 <p><a href="http://video.google.com/videoplay?docid=-3999952944619245780">Git: A Talk by Randal Schwartz</a> - An hour long Google TechTalk on Git given by Randal Schwartz (a prominent Perl developer). I've seen a few people suggesting that this talk is better than Linus', although I haven't watched it all myself yet.
 </p>
 </div>

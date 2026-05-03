@@ -53,7 +53,7 @@ categories:
 <p><a href="http://www.pragprog.com/wikis/wiki/ChangesInRails30">Changes in Rails 3.0 for Agile Web Development with Rails Edition 3</a> - The Pragmatic Programmers are keeping a page with changes necessary for the popular AWDWR book to keep it working with Rails 3. Good to look at it if you're learning from this book!</p>
 <p><a href="http://gist.github.com/293298">Rails 3 App Generator Script</a> - Want to get a complete, scaffolded Rails 3 app up in seconds? This script will get you on your way.</p>
 <p><a href="http://kevinvaldek.com/mootools-driver-for-rails-3-helpers">MooTools Driver for Rails 3 Helpers</a> - Rails 3 is now JavaScript framework agnostic, and if you want to use MooTools, here's some info on how to go about it.</p>
-<p><a href="http://www.youtube.com/watch?v=WTCSUDovxRw">North Korean Rails 3.0 Launch Party</a> - Everyone's in on the festivities!</p>
+<p><a href="https://www.youtube.com/watch?v=WTCSUDovxRw">North Korean Rails 3.0 Launch Party</a> - Everyone's in on the festivities!</p>
 <p><b>NEW!</b> <a href="http://www.lindsaar.net/2010/2/6/bundle_me_some_rails">Bundle Me Some Rails</a> - A walk through using the new Gem bundler with Rails 3.0 by Mikel Lindsaar.</p>
 <p><a href="http://railslove.com/weblog/2010/02/02/on-the-way-to-rails-3-a-link-list/">Another Rails 3 Link List</a> - Michael Bumann started to keep a list of Rails 3.0 links a few days ago, so there might be others not covered here. Just found <a href="http://railsnotes.com/rails-3/">another one by Melvin Ram</a> too.</p>
 <p><i>Logo at top of post courtesy of Dylan Clendenin. See <a href="http://www.railsinside.com/news/379-new-rails-logo.html">more new, unofficial Rails logos</a> and/or submit your own!</i></p>

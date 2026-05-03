@@ -77,7 +77,7 @@ Joshua Ballanco wanted to build a delegation library but got lured into the worl
 </p>
 </div>
 <div style="margin: 16px 0px;" class="item">
-<p><a href="http://www.youtube.com/watch?v=aBgnlBoIkVM" style="font-weight: bold;">Ten Things You Didn't Know You Could Do in Ruby</a><br>
+<p><a href="https://www.youtube.com/watch?v=aBgnlBoIkVM" style="font-weight: bold;">Ten Things You Didn't Know You Could Do in Ruby</a><br>
 A month ago, we linked to the slidedeck of James Edward Gray II's Aloha on Rails talk with 101 various Ruby tricks and code snippets. Now the video is available too! Enjoy.
 </p>
 </div>

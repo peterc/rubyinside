@@ -13,7 +13,7 @@ categories:
 
 {{< rawhtml >}}
 <p><img src="/assets/2011/01/railsinstaller.png" width="93" height="98" alt="railsinstaller.png" style="float:left; margin-right:12px; margin-bottom:12px; border:1px #000000 solid;"><a href="http://railsinstaller.org/">RailsInstaller</a> is a new project from Wayne E Seguin (of <a href="http://rvm.beginrescueend.com/">RVM</a> fame) that brings <a href="http://rubyinstaller.org/">RubyInstaller</a>-style simplicity to getting Ruby <i>and</i> Rails set up on Microsoft Windows (XP, Vista, or 7). In a single wizard-driven installation you get Ruby 1.8.7-p330 (with <a href="https://github.com/oneclick/rubyinstaller/wiki/Development-Kit">DevKit</a>), Rails 3.0.3, Git, and SQLite 3.</p>
-<p><i>Rails Installer</i> was developed with help from Luis Lavena (a Ruby on Windows expert) and Dr. Nic Williams (Engine Yard's resident Australian <a href="http://www.youtube.com/watch?v=2RM18SzE33M">comedian</a>) and its release comes just weeks after <a href="http://www.engineyard.com/blog/2010/honey-im-home/">Wayne was (re)hired by Engine Yard</a> to work on new open source initiatives.</p>
+<p><i>Rails Installer</i> was developed with help from Luis Lavena (a Ruby on Windows expert) and Dr. Nic Williams (Engine Yard's resident Australian <a href="https://www.youtube.com/watch?v=2RM18SzE33M">comedian</a>) and its release comes just weeks after <a href="http://www.engineyard.com/blog/2010/honey-im-home/">Wayne was (re)hired by Engine Yard</a> to work on new open source initiatives.</p>
 <p><strong>To get started, go to <a href="http://railsinstaller.org/">railsinstaller.org</a>, download the "Rails Welcome Kit" and run the installer.</strong> There's a <a href="http://vimeo.com/18787139">screencast</a> you can watch too. The process is as simple as it sounds and you can have a basic, empty Rails project running within minutes.</p>
 <p><img src="/assets/2011/01/railsinstaller1.png" alt="" title="railsinstaller" width="528" height="410" class="alignnone size-full wp-image-4212"></p>
 <p>If you want to follow along more, check out the <a href="http://twitter.com/railsinstaller">@RailsInstaller</a> Twitter account or the <a href="http://groups.google.com/group/railsinstaller/">Rails Installer Google Group / mailing list.</a></p>
@@ -71,7 +71,7 @@ categories:
     </li>
       <li>
       <p class="comment-meta"><strong>Peter Cooper</strong> &middot; <time datetime="2011-01-21T10:00:00+00:00">January 21, 2011 at 10:00 am</time></p>
-      <p>@Matt Slay: I made a video for my Ruby course that covers the basics of that: <a href="http://www.youtube.com/watch?v=CEpeyu-sisI" rel="nofollow">http://www.youtube.com/watch?v=CEpeyu-sisI</a> - totally for newbies though and not ones who want a full-scale IDE (which I think is too intimidating for newcomers and, well, most experienced Ruby developers don't use them anyway).</p>
+      <p>@Matt Slay: I made a video for my Ruby course that covers the basics of that: <a href="https://www.youtube.com/watch?v=CEpeyu-sisI" rel="nofollow">https://www.youtube.com/watch?v=CEpeyu-sisI</a> - totally for newbies though and not ones who want a full-scale IDE (which I think is too intimidating for newcomers and, well, most experienced Ruby developers don't use them anyway).</p>
     </li>
       <li>
       <p class="comment-meta"><strong>(unknown)</strong> &middot; <time></time></p>

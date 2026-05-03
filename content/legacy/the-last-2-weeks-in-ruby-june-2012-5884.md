@@ -144,7 +144,7 @@ An hour long screencast by John Ash walking through the development of a bloggin
 </p>
 </div>
 <div style="margin: 16px 0px;" class="item">
-<p><a href="http://www.youtube.com/watch?v=4iFBC-xbE9I" style="font-weight: bold;">Evented Ruby vs Node.js</a><br>
+<p><a href="https://www.youtube.com/watch?v=4iFBC-xbE9I" style="font-weight: bold;">Evented Ruby vs Node.js</a><br>
 A 40 minute talk by Jerry Cheung from RailsConf 2012.
 </p>
 </div>

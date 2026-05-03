@@ -82,7 +82,7 @@ At RubyConf 2012, Tom Lee demonstrated how you can use Racc, a LALR(1) parser ge
 </p>
 </div>
 <div style="margin: 16px 0px;" class="item">
-<p><a href="http://www.youtube.com/watch?v=9IX1NfwQP1s" style="font-weight: bold;">A Tour Into An Oddity With Ruby's Struct Class</a><br>
+<p><a href="https://www.youtube.com/watch?v=9IX1NfwQP1s" style="font-weight: bold;">A Tour Into An Oddity With Ruby's Struct Class</a><br>
 In which I look into why Struct.new(:foo?).new(true).foo? doesn't work, even though the Struct-produced class and its instances are valid. I dive into the MRI source code a bit to get to the bottom of things. 12 minutes in all.
 </p>
 </div>

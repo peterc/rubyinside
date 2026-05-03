@@ -13,9 +13,9 @@ categories:
 ---
 
 {{< rawhtml >}}
-<p><object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/tIEppAC93IE">
+<p><object width="425" height="350"><param name="movie" value="https://www.youtube.com/v/tIEppAC93IE">
 <param name="wmode" value="transparent">
-<embed src="http://www.youtube.com/v/tIEppAC93IE" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object></p>
+<embed src="https://www.youtube.com/v/tIEppAC93IE" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object></p>
 <p>I just had Paul Levy send me a link to this video. It's a fast-paced 2 minute video about Ruby and Rails that takes a pretty surreal route. You probably won't learn much from this but it's never a bad thing to encourage a bit more artiness in programming ;-)</p>
 {{< /rawhtml >}}
 

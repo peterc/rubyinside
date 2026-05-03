@@ -148,7 +148,7 @@ In a mere 7 minutes, Ryan Bates offers some tips on researching gems to decide w
 </p>
 </div>
 <div style="margin: 16px 0px;" class="item">
-<p><a href="http://www.youtube.com/watch?v=mBXGBbEbXZY" style="font-weight: bold;">Ruby's Symbols Explained</a><br>Never quite got your head around how Ruby's symbols work and what they represent? Here's a video from my Ruby Reloaded course now available to watch on YouTube.</p>
+<p><a href="https://www.youtube.com/watch?v=mBXGBbEbXZY" style="font-weight: bold;">Ruby's Symbols Explained</a><br>Never quite got your head around how Ruby's symbols work and what they represent? Here's a video from my Ruby Reloaded course now available to watch on YouTube.</p>
 </div>
 <div style="margin: 16px 0px;" class="item">
 <p><a href="http://www.confreaks.com/videos/1115-gogaruco2012-go-ahead-make-a-mess" style="font-weight: bold;">Go Ahead, Make a Mess!</a><br>
@@ -166,7 +166,7 @@ A discussion about ergonomics, chairs, standing desks, working in coffee shops, 
 </p>
 </div>
 <div style="margin: 16px 0px;" class="item">
-<p><a href="http://www.youtube.com/watch?v=njO2qeN0pO4" style="font-weight: bold;">Live Reloading with Rails 4</a><br>
+<p><a href="https://www.youtube.com/watch?v=njO2qeN0pO4" style="font-weight: bold;">Live Reloading with Rails 4</a><br>
 Aaron 'tenderlove' Patterson shows off something he's working on that brings live reloading functionality to edge Rails.
 </p>
 </div>

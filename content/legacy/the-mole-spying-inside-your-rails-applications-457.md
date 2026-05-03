@@ -14,7 +14,7 @@ categories:
 
 {{< rawhtml >}}
 <p><img width="324" vspace="4" hspace="4" height="239" border="1" title="mole.png" alt="Mole" src="/assets/2007/04/mole.jpg"></p>
-<p><a href="http://liquidrail.com/2007/4/15/mole-plugin-inspect-the-rails">The MOle</a> is a Rails plugin developed by Fernand Galiana, Delynn Berry, and Ara Howard that allows you to monitor events occurring within your application in real time (without resorting to tailing logs). They've put together <a href="http://www.youtube.com/watch?v=L7JGB7QsAt8">a YouTube! video that demonstrates how MOle works</a> in real time.</p>
+<p><a href="http://liquidrail.com/2007/4/15/mole-plugin-inspect-the-rails">The MOle</a> is a Rails plugin developed by Fernand Galiana, Delynn Berry, and Ara Howard that allows you to monitor events occurring within your application in real time (without resorting to tailing logs). They've put together <a href="https://www.youtube.com/watch?v=L7JGB7QsAt8">a YouTube! video that demonstrates how MOle works</a> in real time.</p>
 {{< /rawhtml >}}
 
 {{< rawhtml >}}

@@ -13,10 +13,10 @@ categories:
 ---
 
 {{< rawhtml >}}
-<p><object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/oEkJvvGEtB4&amp;rel=1">
+<p><object width="425" height="355"><param name="movie" value="https://www.youtube.com/v/oEkJvvGEtB4&amp;rel=1">
 <param name="wmode" value="transparent">
-<embed src="http://www.youtube.com/v/oEkJvvGEtB4&amp;rel=1" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object></p>
-<p>Google has <a href="http://youtube.com/user/googletechtalks">a series of "tech talks"</a> on YouTube where, presumably, Google gets technological luminaries to come in and give a talk about their work. The latest is by Ruby's creator, Yukihiro "Matz" Matsumoto, and was given just a few days ago on February 20, 2008. In the video, Matz quips at Google's reticence to use Ruby but spends most of the time talking about Ruby 1.9, YARV, JRuby, and other new developments, and fielding questions from the audience.</p>
+<embed src="https://www.youtube.com/v/oEkJvvGEtB4&amp;rel=1" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object></p>
+<p>Google has <a href="https://youtube.com/user/googletechtalks">a series of "tech talks"</a> on YouTube where, presumably, Google gets technological luminaries to come in and give a talk about their work. The latest is by Ruby's creator, Yukihiro "Matz" Matsumoto, and was given just a few days ago on February 20, 2008. In the video, Matz quips at Google's reticence to use Ruby but spends most of the time talking about Ruby 1.9, YARV, JRuby, and other new developments, and fielding questions from the audience.</p>
 {{< /rawhtml >}}
 
 {{< rawhtml >}}

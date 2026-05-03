@@ -23,7 +23,7 @@ The biggest Ruby news of the month! RubyMotion is a Ruby implementation and tool
 </p>
 </div>
 <div style="margin: 16px 0px;" class="item">
-<p><a href="http://www.youtube.com/watch?v=VOFTop3AMZ8" style="font-weight: bold;">DHH's RailsConf 2012 Keynote (YouTube)</a><br>
+<p><a href="https://www.youtube.com/watch?v=VOFTop3AMZ8" style="font-weight: bold;">DHH's RailsConf 2012 Keynote (YouTube)</a><br>
 DHH rails against conservatism, people who think about the newbies, and ex-hippies, while celebrating progress and getting the audience to chant "I will not fear change, I will not fight progress". "Stay hippie," he closes.
 </p>
 </div>

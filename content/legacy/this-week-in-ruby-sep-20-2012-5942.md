@@ -79,7 +79,7 @@ Brian Liles (remember TATFT?) digs into creating simulations in Ruby, covering c
 </p>
 </div>
 <div style="margin: 16px 0px;" class="item">
-<p><a href="http://www.youtube.com/watch?v=aISNtCAZlMg" style="font-weight: bold;">Ruby's Symbol#to_proc: A Walkthrough</a><br>
+<p><a href="https://www.youtube.com/watch?v=aISNtCAZlMg" style="font-weight: bold;">Ruby's Symbol#to_proc: A Walkthrough</a><br>
 A 15 minute extract from my Ruby Reloaded course that digs into what Symbol#to_proc is, where it came from, how it works, and how to make your own version from scratch.
 </p>
 </div>

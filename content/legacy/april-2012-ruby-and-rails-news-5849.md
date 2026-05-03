@@ -179,7 +179,7 @@ Cucumber is the popular framework for executing feature documentation written in
 </div>
 <h3>Watching and Listening</h3>
 <div style="margin: 16px 0px;" class="item">
-<p><a href="http://www.youtube.com/watch?v=n7XRYWclYDY" style="font-weight: bold;">Matz Talks About mruby and Its Possibilities</a><br>
+<p><a href="https://www.youtube.com/watch?v=n7XRYWclYDY" style="font-weight: bold;">Matz Talks About mruby and Its Possibilities</a><br>
 Back in November 2011, Matz gave a short (9 minutes!) but sweet talk about mruby, what it's about, and where it's headed.
 </p>
 </div>
@@ -224,7 +224,7 @@ The Ruby Rogues sit down with Jose Valim to discuss not only his popular book 'C
 </p>
 </div>
 <div style="margin: 16px 0px;" class="item">
-<p><a href="http://www.youtube.com/watch?v=J_GOehyTOaY" style="font-weight: bold;">Are Interpreters (Python/Ruby/PHP) Immoral?</a><br>
+<p><a href="https://www.youtube.com/watch?v=J_GOehyTOaY" style="font-weight: bold;">Are Interpreters (Python/Ruby/PHP) Immoral?</a><br>
 A developer makes an impassioned plea for developers to learn compiled languages because 'interpreters for non trivial computation' are immoral and 'indefensible' due to their carbon footprint. Hmm.. yeah.. enjoy ;-)
 </p>
 </div>

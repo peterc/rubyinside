@@ -50,7 +50,7 @@ Myron Marston unveils the last 2.x feature release of the popular spec framework
 </p>
 </div>
 <div style="margin: 16px 0px;" class="item">
-<p><a href="http://www.youtube.com/watch?v=5ZjwEPupybw" style="font-weight: bold;">Functional Programming and Ruby</a><br>
+<p><a href="https://www.youtube.com/watch?v=5ZjwEPupybw" style="font-weight: bold;">Functional Programming and Ruby</a><br>
 At GoRuCo 2013, Pat Shaughnessy gave a 40 minute talk comparing Haskell (a functional language) to Ruby and looked at how to implement common functional patterns in Ruby. Well explained and backed by good slides.
 </p>
 </div>
@@ -174,7 +174,7 @@ Some big names to enjoy here including Yehuda Katz, Amy Hoy, Sandi Metz, and Ste
 </p>
 </div>
 <div style="margin: 16px 0px;" class="item">
-<p><a href="http://www.youtube.com/watch?v=4_TqAMWbzfw" style="font-weight: bold;">Deathmatch: Bundler vs Rubygems.org</a><br>
+<p><a href="https://www.youtube.com/watch?v=4_TqAMWbzfw" style="font-weight: bold;">Deathmatch: Bundler vs Rubygems.org</a><br>
 At GoRuCo 2013, Andre Arko told the story of the quest to make 'bundle install' faster.
 </p>
 </div>
@@ -184,7 +184,7 @@ A well produced 6 minute screencast.
 </p>
 </div>
 <div style="margin: 16px 0px;" class="item">
-<p><a href="http://www.youtube.com/watch?v=t8dj56h2gbg" style="font-weight: bold;">To Know A Garbage Collector</a><br>
+<p><a href="https://www.youtube.com/watch?v=t8dj56h2gbg" style="font-weight: bold;">To Know A Garbage Collector</a><br>
 Mike Bernstein discusses his experiments with MRI Ruby's garbage collector, his investigations into other languages and the influence of their GC implementations, the history of the subject, and more.
 </p>
 </div>
@@ -192,12 +192,12 @@ Mike Bernstein discusses his experiments with MRI Ruby's garbage collector, his 
 <p><a href="http://rubyrogues.com/114-rr-elixir-with-jose-valim/" style="">The Ruby Rogues Discuss 'Elixir' with José Valim</a></p>
 </div>
 <div style="margin: 16px 0px;" class="item">
-<p><a href="http://www.youtube.com/watch?v=ronr_CG8x0Y" style="font-weight: bold;">Kata and Analysis with Jim Weirich </a><br>
+<p><a href="https://www.youtube.com/watch?v=ronr_CG8x0Y" style="font-weight: bold;">Kata and Analysis with Jim Weirich </a><br>
 From RubyConf India 2013 comes a live coding session by the inimitable Jim Weirich where he walks through the popular 'roman numeral' conversion kata using TDD along the way.
 </p>
 </div>
 <div style="margin: 16px 0px;" class="item">
-<p><a href="http://www.youtube.com/watch?v=pwv7ZBAHE4s" style="font-weight: bold;">Aaron 'tenderlove' Patterson's RubyConf India 2013 Keynote</a><br>
+<p><a href="https://www.youtube.com/watch?v=pwv7ZBAHE4s" style="font-weight: bold;">Aaron 'tenderlove' Patterson's RubyConf India 2013 Keynote</a><br>
 An hour with Ruby and Rails core contributor Aaron 'tenderlove' Patterson covering esoteric Ruby stuff and Postgres to career advice and cats. <em>Warning: The audio is rather poor here and cuts out entirely for the second half so don't waste your time if this will drive you crazy.</em>
 </p>
 </div>
@@ -207,7 +207,7 @@ European Ruby conference (EuRuKo) took place in Athens last month and Clemens He
 </p>
 </div>
 <div style="margin: 16px 0px;" class="item">
-<p><a href="http://www.youtube.com/watch?v=qkvEjZ-mGQA" style="font-weight: bold;">Nokogiri: History and Future</a><br>
+<p><a href="https://www.youtube.com/watch?v=qkvEjZ-mGQA" style="font-weight: bold;">Nokogiri: History and Future</a><br>
 Nokogiri is the most popular way to parse and process XML in Ruby and at GoRuCo 2013, Mike Dalessio gave a short 11 minute talk on the origins of the project, how to determine if it suits you, and looks at some of the tooling around it.
 </p>
 </div>

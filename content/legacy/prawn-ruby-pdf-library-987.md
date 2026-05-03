@@ -26,7 +26,7 @@ categories:
   <span class="ident">text</span> <span class="punct">"</span><span class="string">this is a test </span><span class="punct">"</span> <span class="punct">*</span> <span class="number">100</span>
 <span class="keyword">end</span></pre>
 
-<p>Prawn comes with 11 typefaces, including Helvetica, Courier, DejaVuSans, Times, and everyone's favorite - <a href="http://www.youtube.com/watch?v=88lkFzBuPL4">Comic Sans</a>. It already supports image embedding, table drawing, and content positioning, but a lot more is yet to come. Prawn is now ripe for more community involvement and support, so if you want to help (Gregory's <a href="http://groups.google.com/group/prawn-ruby/t/257fbd9a13bdf78">looking for a logo!</a>) the <a href="http://groups.google.com/group/prawn-ruby">prawn-ruby Google Group</a> is a great place to start.</p>
+<p>Prawn comes with 11 typefaces, including Helvetica, Courier, DejaVuSans, Times, and everyone's favorite - <a href="https://www.youtube.com/watch?v=88lkFzBuPL4">Comic Sans</a>. It already supports image embedding, table drawing, and content positioning, but a lot more is yet to come. Prawn is now ripe for more community involvement and support, so if you want to help (Gregory's <a href="http://groups.google.com/group/prawn-ruby/t/257fbd9a13bdf78">looking for a logo!</a>) the <a href="http://groups.google.com/group/prawn-ruby">prawn-ruby Google Group</a> is a great place to start.</p>
 <p><b>Update:</b> Gregory has created the "<a href="http://github.com/sandal/prawn-gallery/tree/master">Prawn Gallery</a>" on GitHub as a place for people to show off their Prawn-created PDFs.</p>
 {{< /rawhtml >}}
 
