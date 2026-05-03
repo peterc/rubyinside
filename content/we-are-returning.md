@@ -6,7 +6,7 @@ categories: []
 draft: false
 ---
 
-Twenty years ago – on May 13, 2006 – [I unceremoniously said "Hello world"](https://rubyinside.com/hello-world-1.html) on this blog, which ran non-stop through to October 2014 whereupon I devoted my efforts to [Ruby Weekly](https://rubyweekly.com/) instead.
+Twenty years ago – on May 13, 2006 – [I said "Hello world"](https://rubyinside.com/hello-world-1.html) on this blog, which ran non-stop through to October 2014 whereupon I devoted my efforts to [Ruby Weekly](https://rubyweekly.com/) instead.
 
 Well.. *Ruby Inside* is coming back! I have lot of Ruby related things I want to blog about, but I kept putting it off as I didn't have a good venue to use.. so why not bring Ruby Inside back?
 
