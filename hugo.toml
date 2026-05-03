@@ -5,7 +5,7 @@ title = "Ruby Inside"
   locale = "en-us"
 
 [pagination]
-  pagerSize = 30
+  pagerSize = 12
 
 # Allow raw HTML in Markdown content (the legacy posts use the {{< rawhtml >}}
 # shortcode, but goldmark still needs unsafe rendering enabled to pass it).
