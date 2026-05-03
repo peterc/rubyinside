@@ -48,6 +48,10 @@ h1, h2, h3, h4, p, .post-list a { text-wrap: pretty; }
 .archive-list a:hover { color: #d10c0d; }
 .post-list li { padding: 0.4rem 0; border-bottom: 1px solid #eee; }
 .post-list .meta { display: block; color: #888; font-size: 0.85rem; }
+.error-page { text-align: center; padding: 4rem 0; }
+.error-code { font-family: "Plus Jakarta Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; font-size: 10rem; font-weight: 700; color: #d10c0d; line-height: 1; margin-bottom: 1.5rem; }
+.error-message { display: inline-block; text-align: left; font-family: ui-monospace, "SFMono-Regular", Menlo, Monaco, Consolas, monospace; font-size: 0.9rem; color: #555; background: #f5f5f5; padding: 1rem 1.5rem; border-radius: 4px; margin-bottom: 2rem; }
+.error-page a { color: #d10c0d; font-family: "Plus Jakarta Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
 .comments { margin-top: 3rem; padding-top: 1rem; border-top: 2px solid #ddd; }
 .comments ol { list-style: none; padding: 0; }
 .comments li { padding: 0.75rem 0; border-bottom: 1px solid #eee; }

@@ -30,7 +30,7 @@ title = "Ruby Inside"
 
 [params]
   images = ["/img/og-default.png"]
-  description = "Ruby news, articles, and tutorials from 2006–2014."
+  description = "A classic Ruby programming blog revived for 2026."
 
 # Disable Hugo's default "ugly URL" shenanigans — every post has a `url:` in
 # frontmatter that pins its exact path, so we don't need any URL transformation.

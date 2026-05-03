@@ -1,0 +1,10 @@
+{{ define "title" }}404 Not Found &middot; {{ .Site.Title }}{{ end }}
+{{ define "main" }}
+<div class="error-page">
+  <div class="error-code">404</div>
+  <pre class="error-message">NoPageError: undefined page for an instance of RubyInside
+    from /usr/local/lib/ruby/site_ruby/rubyinside.rb:42
+    from /usr/local/bin/ruby:1:in `main'</pre>
+  <p><a href="/">Go back home</a></p>
+</div>
+{{ end }}
