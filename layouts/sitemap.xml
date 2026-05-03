@@ -1,0 +1,20 @@
+{{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {{- range .Pages }}
+  {{- if and (ne .Section "legacy") (ne .Section "categories") (ne .Section "authors") }}
+  <url>
+    <loc>{{ .Permalink }}</loc>
+    {{- if not .Lastmod.IsZero }}
+    <lastmod>{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" | safeHTML }}</lastmod>
+    {{- end }}
+  </url>
+  {{- end }}
+  {{- end }}
+  {{- range slice "/about" "/archives" }}
+  {{- with $.Site.GetPage . }}
+  <url>
+    <loc>{{ .Permalink }}</loc>
+  </url>
+  {{- end }}
+  {{- end }}
+</urlset>
