@@ -1,7 +1,7 @@
 ---
 title: About
 url: /about/
-layout: page
+layout: static
 build:
   list: never
 ---
